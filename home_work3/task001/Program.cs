@@ -1,13 +1,16 @@
 ﻿Console.Clear();
 Console.Write("Введите пятизначное число: ");
-string number = Console.ReadLine();
-int length = number.Length;
-if(length == 5)
+int n = Convert.ToInt32(Console.ReadLine());
+while (n < 10000 || n > 99999)
 {
-    if (number [0] == number [4] && number[1] == number[3])
-        Console.WriteLine("Палиндром");
-    else
-        Console.WriteLine("Не палиндром");
+    Console.Write("Вы ошиблись!\nВведите пятизначное число: ");
+    n = Convert.ToInt32(Console.ReadLine());
 }
+int n1 = n / 10000;
+int n2 = (n / 1000) % 10;
+int n4 = (n % 100) / 10;
+int n5 = n % 10;
+if (n1 == n5 && n2 == n4)
+    Console.WriteLine("Палиндром");
 else
-    Console.WriteLine("Вы ошиблись!");
+    Console.WriteLine("Не палиндром");
