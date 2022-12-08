@@ -1,0 +1,15 @@
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\bin\Debug\net6.0\task002.exe
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\bin\Debug\net6.0\task002.deps.json
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\bin\Debug\net6.0\task002.runtimeconfig.json
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\bin\Debug\net6.0\task002.dll
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\bin\Debug\net6.0\task002.pdb
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.csproj.AssemblyReference.cache
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.AssemblyInfoInputs.cache
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.AssemblyInfo.cs
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.dll
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\refint\task002.dll
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.pdb
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\task002.genruntimeconfig.cache
+D:\GeekBrains\Home_work_C#\home_work\home_work5\task002\obj\Debug\net6.0\ref\task002.dll
