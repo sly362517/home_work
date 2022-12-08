@@ -8,7 +8,7 @@
 void ReleaseArray(int[] array)
 {
     int result = 0;
-    for( int i = 1; i < array.Length; i = i + 2)
+    for( int i = 1; i < array.Length; i += 2)
         result += array[i];
     Console.WriteLine($"Сумма элементов на нечётных местах: {result}");
 }
