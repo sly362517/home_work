@@ -1,9 +1,14 @@
 ﻿Console.Clear();
-string[] n = Console.ReadLine().Split(" ");
+Console.Write("Введите элементы(через пробел): ");
+int[] array = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 int result = 0;
-foreach (string i in n)
+ 
+for (int i = 0; i < array.Length; i++)
 {
-    if (int.Parse(i) > 0)
-    result++;
+    if (array[i] > 0)
+    {
+        result++;
+    }
 }
-Console.WriteLine($"Количество чисел больше 0: {result}");
+ 
+Console.WriteLine($"Количество элементов больше 0: {result}");
