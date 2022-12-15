@@ -15,7 +15,7 @@
 void ReleaseMatrix(int[, ] matrix, int x, int y)
 {
     if (x >= matrix.GetLength(0) || y >= matrix.GetLength(1) || x < 0 || y < 0)
-        Console.WriteLine("Такого элемента нет в массиве");
+        Console.WriteLine("Такой позиции в массиве нет");
     else
         Console.WriteLine(matrix[x, y]);
 }
